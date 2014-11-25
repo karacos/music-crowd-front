@@ -1,4 +1,4 @@
 music-crowd-front
 =================
 
-music crowd front
+Crowdfunding music platform front-end
